@@ -4,11 +4,11 @@ The Complaint Management System is a web application designed to manage and trac
 
 ## Features
 
-- **User Dashboard**: 
+- **User Dashboard**:
   - Users can log in and submit complaints with details such as title, description, and category.
   - Users can view the status of their submitted complaints.
 
-- **Admin Dashboard**: 
+- **Admin Dashboard**:
   - Admins can log in to review, edit, and resolve complaints.
   - Admins can update the status of complaints (Pending, In Progress, Resolved).
   - Admins can view detailed information about each complaint.
